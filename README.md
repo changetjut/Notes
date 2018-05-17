@@ -3,4 +3,4 @@
 [从反射链的构造看Java反序列漏洞](http://www.freebuf.com/news/150872.html)  
 [Java反序列化漏洞的原理分析](http://www.freebuf.com/vuls/170344.html)  
 [初探反序列化与POP CHAIN](http://www.freebuf.com/column/154530.html)  
-
+[深度 - Java 反序列化 Payload 之 JRE8u20](https://paper.seebug.org/456/)
