@@ -4,3 +4,9 @@
 [Java反序列化漏洞的原理分析](http://www.freebuf.com/vuls/170344.html)  
 [初探反序列化与POP CHAIN](http://www.freebuf.com/column/154530.html)  
 [深度 - Java 反序列化 Payload 之 JRE8u20](https://paper.seebug.org/456/)
+
+
+#书
+##机器学习
+[10 本机器学习精选书籍推荐！](https://zhuanlan.zhihu.com/p/28115739)
+书链接：https://item.jd.com/12128543.html
