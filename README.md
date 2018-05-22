@@ -10,3 +10,13 @@
 ## 机器学习
 [10 本机器学习精选书籍推荐！](https://zhuanlan.zhihu.com/p/28115739)  
 书链接：https://item.jd.com/12128543.html
+
+
+# Java反序列化问题
+[ysoserial](https://github.com/frohoff/ysoserial/)  
+[marshalsec](https://github.com/frohoff/marshalsec)  
+[Java反序列化备忘录](https://xz.aliyun.com/t/2042)  原文：https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet  
+[Java反序列化漏洞从入门到深入](https://xz.aliyun.com/t/2041) 挖掘思路、Demo、工具、修复方案等  
+[DeserLab](https://github.com/NickstaDB/DeserLab) Java deserialization exploitation lab.  
+[SerializationDumper](https://github.com/NickstaDB/SerializationDumper)  解析序列化的数据为可读数据  
+
